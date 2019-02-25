@@ -186,8 +186,8 @@ Provide meta information about your plugin with the `plugin.xml` file. Read the 
 
 ## Plugin Icon
 
-To make it easier to identify you plugin in the plugin manager module in the backend, you should provide a `plugin.png` file in your plugin root directory.
-This small icon must have a size of 16x16px.
+To make it easier to identify your plugin in the Plugin Manager module in the backend, you should provide a `plugin.png` file in your plugin root directory.
+This small favicon must have a size of 16x16px.
 
 ## The plugin base file
 The main entry point of every plugin is the plugin base file in your plugin directory `SwagSloganOfTheDay.php`. This is placed
